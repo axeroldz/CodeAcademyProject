@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+}
+h2{
+    color: cornflowerblue;
+    text-align: center;
+}
+thead{
+    background-color: deepskyblue;
+}
+table{
+    border: 2px solid dodgerblue;
+    width: 650px;
+    margin:0 auto;
+}
+td{
+    border-top:1px solid dodgerblue
+}
+.code{
+    font-family: monospace;
+    background-color: khaki;
+}
